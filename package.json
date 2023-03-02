@@ -1,7 +1,7 @@
 {
-  "name": "logalyzer",
+  "name": "quickstart-react-base",
   "version": "0.0.1",
-  "description": "Parses mattermost logs and config files and tells you all the errors or issues.",
+  "description": "Quickstart react base that includes webpack, redux, react, typescript, eslint, and sass",
   "main": "index.ts",
   "scripts": {
     "dev": "webpack serve --config ./config/webpack.dev.js --stats-error-details",
